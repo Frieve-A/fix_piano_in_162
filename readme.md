@@ -11,7 +11,7 @@ https://ivyaudio.com/Piano-in-162
 setup:
 
 ```
-pip install numpy, argparse, numpy, tqdm
+pip install numpy argparse numpy tqdm soundfile
 ```
 
 
